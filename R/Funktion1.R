@@ -17,7 +17,6 @@
 #' my_fancy(1:2,3:4)
 #' 
 my_fancy <- function(x,y) {
-  x+y
-  x-y
+  c(x+y,x-y)
 }
 
