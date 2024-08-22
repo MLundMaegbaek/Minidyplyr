@@ -18,5 +18,6 @@
 #' 
 my_fancy <- function(x,y) {
   x+y
+  x-y
 }
 
